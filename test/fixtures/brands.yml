@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  good_tasting: false
+  drink_id: 1
+
+two:
+  name: MyString
+  good_tasting: false
+  drink_id: 1
